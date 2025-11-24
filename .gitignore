@@ -1,0 +1,32 @@
+# Salidas de compilacion
+/out/
+/bin/
+/target/
+*.class
+
+# Logs y exportaciones generadas
+*.log
+*.csv
+
+# Configuracion de IDE/OS
+/.idea/
+/.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.jar
+*.war
+
+# Environment
+.env
+.env.*
+
+# Build artifacts
+*.jar
+*.war
+
+# Environment
+.env
+.env.*
